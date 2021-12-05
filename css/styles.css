@@ -1,0 +1,16 @@
+#game{
+  display: none;
+}
+
+#player1{
+background-color: bisque;
+}
+
+#player2{
+  background-color:cadetblue;
+  display: none;
+ 
+
+
+
+}
